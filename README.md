@@ -49,7 +49,7 @@ Inspired by [Roboflow's basketball tracking projects](https://blog.roboflow.com/
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/player-counting-sam2.git
+git clone https://github.com/thomasbradley99/player-counting-sam2.git
 cd player-counting-sam2
 
 # Install package
@@ -251,7 +251,7 @@ If you use this project in your research, please cite:
   title={Player Counting with SAM2 and Embedding Vectors},
   author={Your Name},
   year={2024},
-  url={https://github.com/YOUR_USERNAME/player-counting-sam2}
+  url={https://github.com/thomasbradley99/player-counting-sam2}
 }
 ```
 
@@ -277,11 +277,11 @@ Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 ## 🐛 Issues
 
-Found a bug? Have a feature request? Please [open an issue](https://github.com/YOUR_USERNAME/player-counting-sam2/issues).
+Found a bug? Have a feature request? Please [open an issue](https://github.com/thomasbradley99/player-counting-sam2/issues).
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/player-counting-sam2&type=Date)](https://star-history.com/#YOUR_USERNAME/player-counting-sam2&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=thomasbradley99/player-counting-sam2&type=Date)](https://star-history.com/#thomasbradley99/player-counting-sam2&Date)
 
 ---
 
